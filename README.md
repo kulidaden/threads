@@ -2,7 +2,7 @@
 Приклад використання потоків.
 
 #Інсталяція.
-1. Клонуйте репозиторій: `https://github.com/kulidaden/threads.git`
+1. Клонуйте репозиторій: `git clone https://github.com/kulidaden/threads.git`
 2. Потім ці команди: `cd threads` -> `cd dist` -> `cd thread` -> `./thread.exe`
    
 ## Використання

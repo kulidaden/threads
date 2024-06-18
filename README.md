@@ -5,7 +5,12 @@
 1. Клонуйте репозиторій: `git clone https://github.com/kulidaden/threads.git`
 2. Потім ці команди: `cd threads` -> `cd dist` -> `cd thread` -> `./thread.exe`
 
-### АБО
+# АБО 
+Можна використати Docker
+(УВАГА! Для запуску потрібно мати встановлений та запущений Xming)
+Команда для інсталяції: docker pull denyskulida/thread
+Команда для запуску: docker run -e DISPLAY=host.docker.internal:0.0 -v /tmp/.X11-unix:/tmp/.X11-unix denyskulida/thread
+
    
 ## Використання
 Програма демонструє роботу 4 прямокутників які змінюються за розмірами та над кожним з них є їхні площі. Знизу продемонстровано загальну площу та зображено кнопки «Star» - для старту потоку та

@@ -62,11 +62,9 @@
 > <i><b>You can use Docker.<b></i>
 
 > [!WARNING]\
->Xming must be installed and running to run
+>Xming must be installed and running to run<br><b>Need to run a graphical user interface (GUI)</b>
 1. Command for installation: docker pull denyskulida/thread
-2. Command to run: docker run -e DISPLAY=host.docker.internal:0.0 -v /tmp/.X11-unix:/tmp/.X11-unix denyskulida/thread 
-## Usage
-The program demonstrates the operation of 4 rectangles that change in size and above each of them are their areas.  The bottom shows the general area and shows the buttons "Start" - to start the flow and "Clear"- to stop the flow.
+2. Command to run: docker run -e DISPLAY=host.docker.internal:0.0 -v /tmp/.X11-unix:/tmp/.X11-unix denyskulida/thread
 
 ## Contact
 If you need advice or help using the program: Telegram: @DeLemse

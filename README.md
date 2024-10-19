@@ -2,6 +2,7 @@
   <img width="450px" height='250px' src="./Threads.png" align="center" alt="Space Defenders" />
   <h2 align="center">Threads</h2>
 </p>
+<h2><p align="center">⚜️Глянь як працюють потоки в процесі⚜️</p></h2>
 
 # Інсталяція
 1. Клонуйте репозиторій: `git clone https://github.com/kulidaden/threads.git`

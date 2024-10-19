@@ -40,13 +40,27 @@
   <h2 align="center">Threads</h2>
 </p>
 <h2><p align="center">⚜️See how threads work in the process⚜️</p></h2>
+<table>
+  <td>
+    <img src="./img/thred.jpg" alt="Image";">
+  </td>
+  <td>
+      <h3>This program demonstrates<br>working of 4 rectangles<br>
+       which vary by<br>sizes and over each<br>of them 
+       are their areas.  Each<br>rectangle<br>is a flow, common<br>
+       the area is also a separate stream.  The general one is shown below 
+       area and the «Start» button is shown - for starting the stream
+       "Clear" - to stop the flow.  <br>These buttons can be used to<br> control streams.</h3>
+  </td>
+</table>
 
 # Installation
 1. Clone the repository: `git clone https://github.com/kulidaden/threads.git`
 2. Then these commands: `cd threads` -> `pyinstaller --onefile --distpath ./ thread.py` -> `./thread.exe`
 
-# OR 
-### You can use Docker. 
+> [!NOTE]\
+> <i><b>You can use Docker.<b></i>
+
 > [!WARNING]\
 >Xming must be installed and running to run
 1. Command for installation: docker pull denyskulida/thread

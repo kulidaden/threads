@@ -67,5 +67,6 @@
 2. Command to run: docker run -e DISPLAY=host.docker.internal:0.0 -v /tmp/.X11-unix:/tmp/.X11-unix denyskulida/thread
 
 ## Contact
-If you need advice or help using the program: Telegram: @DeLemse
+> [!NOTE]\
+>If you need advice or help using the program: Telegram: @DeLemse
 

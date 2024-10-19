@@ -1,5 +1,7 @@
-# Threads
-Приклад використання потоків.
+<p align="center">
+  <img width="450px" height='250px' src="./Threads.png" align="center" alt="Space Defenders" />
+  <h2 align="center">Threads</h2>
+</p>
 
 # Інсталяція
 1. Клонуйте репозиторій: `git clone https://github.com/kulidaden/threads.git`

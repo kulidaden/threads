@@ -7,7 +7,8 @@
 
 # АБО 
 ### Можна використати Docker. 
-### (УВАГА! Для запуску потрібно мати встановлений та запущений Xming)
+> [!WARNING]\
+>(УВАГА! Для запуску потрібно мати встановлений та запущений Xming)
 1. Команда для інсталяції: docker pull denyskulida/thread
 2. Команда для запуску: docker run -e DISPLAY=host.docker.internal:0.0 -v /tmp/.X11-unix:/tmp/.X11-unix denyskulida/thread
 
@@ -27,7 +28,8 @@
 
 # OR 
 ### You can use Docker. 
-### (WARNING! Xming must be installed and running to run)
+> [!WARNING]\
+>(WARNING! Xming must be installed and running to run)
 1. Command for installation: docker pull denyskulida/thread
 2. Command to run: docker run -e DISPLAY=host.docker.internal:0.0 -v /tmp/.X11-unix:/tmp/.X11-unix denyskulida/thread 
 ## Usage

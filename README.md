@@ -22,7 +22,7 @@
 2. Потім ці команди: `cd threads` -> `pyinstaller --onefile --distpath ./ thread.py` -> `./thread.exe`
 
 > [!NOTE]\
-> <i><b>Можна використати Docker.<b></i>
+> <u><b>Можна використати Docker.<b></u>
 
 > [!WARNING]\
 >Для запуску потрібно мати встановлений та запущений Xming<br><b>Необхідністю запуску графічного інтерфейсу (GUI)</b>

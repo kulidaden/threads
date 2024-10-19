@@ -29,7 +29,7 @@
 2. Команда для запуску: docker run -e DISPLAY=host.docker.internal:0.0 -v /tmp/.X11-unix:/tmp/.X11-unix denyskulida/thread
 
 ## Контакт
-> [!Контакт]\
+> [!NOTE]\
 >Якщо Вам потрібна консультація або допомога по використанні програми: Telegram: @DeLemse
 
 # Threads

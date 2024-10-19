@@ -21,8 +21,8 @@
 1. Клонуйте репозиторій: `git clone https://github.com/kulidaden/threads.git`
 2. Потім ці команди: `cd threads` -> `pyinstaller --onefile --distpath ./ thread.py` -> `./thread.exe`
 
-# АБО 
-### Можна використати Docker. 
+> [!NOTE]\
+> Можна використати Docker. 
 > [!WARNING]\
 >Для запуску потрібно мати встановлений та запущений Xming<br><b>Необхідністю запуску графічного інтерфейсу (GUI)</b>
 1. Команда для інсталяції: docker pull denyskulida/thread

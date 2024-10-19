@@ -22,7 +22,8 @@
 2. Потім ці команди: `cd threads` -> `pyinstaller --onefile --distpath ./ thread.py` -> `./thread.exe`
 
 > [!NOTE]\
-> Можна використати Docker. 
+> Можна використати Docker.
+
 > [!WARNING]\
 >Для запуску потрібно мати встановлений та запущений Xming<br><b>Необхідністю запуску графічного інтерфейсу (GUI)</b>
 1. Команда для інсталяції: docker pull denyskulida/thread

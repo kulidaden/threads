@@ -33,8 +33,13 @@
 > [!NOTE]\
 >Якщо Вам потрібна консультація або допомога по використанні програми: Telegram: @DeLemse
 
-# Threads
- An example of using threads.
+##
+
+<p align="center">
+  <img width="450px" height='250px' src="./img/Threads.png" align="center" alt="Space Defenders" />
+  <h2 align="center">Threads</h2>
+</p>
+<h2><p align="center">⚜️See how threads work in the process⚜️</p></h2>
 
 # Installation
 1. Clone the repository: `git clone https://github.com/kulidaden/threads.git`

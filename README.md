@@ -48,8 +48,8 @@
       <h3>This program demonstrates<br>working of 4 rectangles<br>
        which vary by<br>sizes and over each<br>of them 
        are their areas.  Each<br>rectangle<br>is a flow, common<br>
-       the area is also a separate stream.  The general one is shown below 
-       area and the «Start» button is shown - for starting the stream
+       the area is also a separate stream.<br>The general one is shown below 
+       area and the<br>«Start» button is shown - for starting the stream<br>
        "Clear" - to stop the flow.  <br>These buttons can be used to<br> control streams.</h3>
   </td>
 </table>

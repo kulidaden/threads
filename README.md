@@ -1,11 +1,11 @@
 <p align="center">
-  <img width="450px" height='250px' src="./Threads.png" align="center" alt="Space Defenders" />
+  <img width="450px" height='250px' src="./img/Threads.png" align="center" alt="Space Defenders" />
   <h2 align="center">Threads</h2>
 </p>
 <h2><p align="center">⚜️Глянь як працюють потоки в процесі⚜️</p></h2>
 <table>
   <td>
-    asd
+    <img src="./img/thred.jpg" alt="Image";">
   </td>
   <td>
     Ця програма демонструє роботу 4 прямокутників <br>які змінюються за розмірами та над кожним з них <br>є їхні площі. Знизу продемонстровано загальну площу та <br>зображено кнопки «Start» - для старту потоку <br>та «Clear» - для зупинки потоку.
